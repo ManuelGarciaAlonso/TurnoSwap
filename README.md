@@ -1,8 +1,6 @@
 # TurnoSwap
 ## Landing Page
 [Multidispositivo](https://preview.webflow.com/preview/turnoswap?utm_medium=preview_link&utm_source=designer&utm_content=turnoswap&preview=372ff713660b39d67551856d74401036&locale=en&pageId=65c89d6ec128cd5330b6e4ec&workflow=preview)
-
-
 [Ordenador](https://turnoswap.webflow.io/)
 ## Descripción del repositorio
 
